@@ -1,4 +1,4 @@
-# Created by kierancornwall at 02/12/2019
+
 Feature: #Enter feature name here
   # Enter feature description here
 
